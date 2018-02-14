@@ -1,0 +1,2 @@
+# safeblog
+safe link java
